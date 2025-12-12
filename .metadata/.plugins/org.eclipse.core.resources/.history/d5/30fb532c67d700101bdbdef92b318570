@@ -1,0 +1,15 @@
+package TypeCaasting;
+
+public class TestImplicitAndExplicitTypeCasting {
+	public static void main(String[] args) {
+
+		ImplicitAndExplicitTypeCasting i=new ImplicitAndExplicitTypeCasting();
+		i.b1();
+		i.v1();
+		i.ch();
+		i.var();
+		i.a1();
+		i.a2();
+		
+    }
+}

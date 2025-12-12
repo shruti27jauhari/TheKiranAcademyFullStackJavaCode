@@ -1,0 +1,13 @@
+package TypeCaasting;
+
+public class ImplicitAndExplicitTypeCasting {
+    byte b1 = 20;
+    int v1 = b1;
+    
+    char ch = 'A';   
+    int var = ch;
+
+    int a1 = 200;
+    byte b2 = (byte) a1;
+
+}

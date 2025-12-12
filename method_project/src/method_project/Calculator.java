@@ -1,0 +1,11 @@
+package method_project;
+
+public class Calculator {
+	
+		double addThree(double n1,double n2, double n3) {
+			double res=n1+n2+n3;
+			return res;
+			
+		}
+	}
+
